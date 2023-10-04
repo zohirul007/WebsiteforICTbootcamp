@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <!-- Option 1: Include in HTML -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
 
     <link rel="stylesheet" href="style.css">
     <title>Prism project</title>
@@ -56,9 +56,9 @@
                         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem quis ratione quaerat iure fuga quia a sint nobis perspiciatis, sequi tempore maiores aut nesciunt debitis!
 
                     </p>
-                    
+
                     <a href="registration.php" class="nav-link"><button class="btn btn-primary btn-lg">Admission Now</button></a>
-                    
+
                 </div>
                 <img class="img-fluid w-50 d-none d-sm-block" src="img/professionallady.png" alt="">
             </div>
@@ -85,18 +85,55 @@
             <div class="row text-center">
                 <div class="col-md">
                     <div class="card bg-dark text-light">
-                    <div class="card-body text-center">
-                        <div class="h1 mb-3">
-                        <i class="bi bi-laptop"></i>
+                        <div class="card-body text-center">
+                            <div class="h1 mb-3">
+                                <i class="bi bi-laptop"></i>
+                            </div>
+                            <h3 class="card-title mb-3">
+                                Virtual
+                            </h3>
+                            <p class="card-text">
+                                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                                Nesciunt accusamus officiis eaque sapiente! Placeat, aliquam!
+                            </p>
+                            <a href="#" class="btn btn-primary">Read more</a>
                         </div>
-                        <h3 class="card-title">
-                            Virtual
-                        </h3>
                     </div>
-                 </div>
                 </div>
-                <div class="col-md">123</div>
-                <div class="col-md">123</div>
+                <div class="col-md">
+                <div class="card bg-secondary text-light">
+                        <div class="card-body text-center">
+                            <div class="h1 mb-3">
+                                <i class="bi bi-person-square"></i>
+                            </div>
+                            <h3 class="card-title mb-3">
+                                Hybrid
+                            </h3>
+                            <p class="card-text">
+                                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                                Nesciunt accusamus officiis eaque sapiente! Placeat, aliquam!
+                            </p>
+                            <a href="#" class="btn btn-dark">Read more</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md">
+                <div class="card bg-dark text-light">
+                        <div class="card-body text-center">
+                            <div class="h1 mb-3">
+                                <i class="bi bi-people"></i>
+                            </div>
+                            <h3 class="card-title mb-3">
+                                In Person
+                            </h3>
+                            <p class="card-text">
+                                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                                Nesciunt accusamus officiis eaque sapiente! Placeat, aliquam!
+                            </p>
+                            <a href="#" class="btn btn-primary">Read more</a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
