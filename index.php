@@ -76,6 +76,16 @@
             </div>
         </div>
     </section>
+    <!-- Boxes -->
+    <section class="p-5">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col">123</div>
+                <div class="col">123</div>
+                <div class="col">123</div>
+            </div>
+        </div>
+    </section>
     <script class="img-fluid w-50" src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 
 </body>
